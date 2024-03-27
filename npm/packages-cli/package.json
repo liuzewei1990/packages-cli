@@ -1,0 +1,22 @@
+{
+  "name": "packages-cli",
+  "version": "1.0.0",
+  "description": "A package that outputs 123456",
+  "bin": {
+    "packages-cli": "./index.js"
+  },
+  "main": "./main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "npm",
+    "package"
+  ],
+  "author": "Your Name",
+  "license": "MIT",
+  "devDependencies": {
+    "chalk": "^3.0.0",
+    "prettier": "^2.4.1"
+  }
+}
