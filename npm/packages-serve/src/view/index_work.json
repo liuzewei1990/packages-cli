@@ -1,0 +1,229 @@
+{
+  "workmode": "PC",
+  "colNum": 144,
+  "rowNum": 72,
+  "activeViewId": "view-6f92-b322",
+  "views": [
+    {
+      "viewId": "view-6f92-b322",
+      "title": "组件开发",
+      "elements": [
+        {
+          "i": "ele-6a8e-93b6",
+          "x": 0,
+          "y": 0,
+          "w": 144,
+          "h": 45,
+          "static": false,
+          "isResizable": false,
+          "fixedHeight": false,
+          "elId": "ele-6a8e-93b6",
+          "elStyle": {
+            "bgColor": "#ffffff",
+            "bgSize": "contain",
+            "bgImg": "",
+            "mar_s": 0,
+            "margin": [
+              { "title": "t", "val": 0 },
+              { "title": "b", "val": 0 },
+              { "title": "l", "val": 0 },
+              { "title": "r", "val": 0 }
+            ],
+            "pad_s": 0,
+            "padding": [
+              { "title": "t", "val": 0 },
+              { "title": "b", "val": 0 },
+              { "title": "l", "val": 0 },
+              { "title": "r", "val": 0 }
+            ],
+            "border": 0,
+            "borderColor": "#999999",
+            "bor_r_r": 0,
+            "borderRadius": [
+              { "title": "lt", "val": 0 },
+              { "title": "rt", "val": 0 },
+              { "title": "lb", "val": 0 },
+              { "title": "rb", "val": 0 }
+            ]
+          },
+          "coName": "WorkTabs",
+          "coType": "",
+          "coProps": {},
+          "pos": { "left": 0, "top": 0, "width": 800, "height": 45 },
+          "isDerailed": false,
+          "wsca": 0.8450704316160221,
+          "lsca": 1627,
+          "moved": false
+        }
+      ]
+    },
+    {
+      "viewId": "view-e9cd-7642",
+      "title": "BUG修改",
+      "elements": [
+        {
+          "i": "ele-8ee5-0825",
+          "x": 0,
+          "y": 0,
+          "w": 144,
+          "h": 45,
+          "static": false,
+          "isResizable": false,
+          "fixedHeight": false,
+          "elId": "ele-8ee5-0825",
+          "elStyle": {
+            "bgColor": "#ffffff",
+            "bgSize": "contain",
+            "bgImg": "",
+            "mar_s": 0,
+            "margin": [
+              { "title": "t", "val": 0 },
+              { "title": "b", "val": 0 },
+              { "title": "l", "val": 0 },
+              { "title": "r", "val": 0 }
+            ],
+            "pad_s": 0,
+            "padding": [
+              { "title": "t", "val": 0 },
+              { "title": "b", "val": 0 },
+              { "title": "l", "val": 0 },
+              { "title": "r", "val": 0 }
+            ],
+            "border": 0,
+            "borderColor": "#999999",
+            "bor_r_r": 0,
+            "borderRadius": [
+              { "title": "lt", "val": 0 },
+              { "title": "rt", "val": 0 },
+              { "title": "lb", "val": 0 },
+              { "title": "rb", "val": 0 }
+            ]
+          },
+          "coName": "WorkTabs",
+          "coType": "",
+          "coProps": {},
+          "pos": { "left": 0, "top": 0, "width": 1627, "height": 45 },
+          "isDerailed": false,
+          "wsca": 0.78740155115198,
+          "lsca": 1627,
+          "moved": false
+        }
+      ]
+    },
+    {
+      "viewId": "view-bb4d-0b68",
+      "title": "问题优化",
+      "elements": [
+        {
+          "i": "ele-5aad-e0b0",
+          "x": 0,
+          "y": 0,
+          "w": 144,
+          "h": 45,
+          "static": false,
+          "isResizable": false,
+          "fixedHeight": false,
+          "elId": "ele-5aad-e0b0",
+          "elStyle": {
+            "bgColor": "#ffffff",
+            "bgSize": "contain",
+            "bgImg": "",
+            "mar_s": 0,
+            "margin": [
+              { "title": "t", "val": 0 },
+              { "title": "b", "val": 0 },
+              { "title": "l", "val": 0 },
+              { "title": "r", "val": 0 }
+            ],
+            "pad_s": 0,
+            "padding": [
+              { "title": "t", "val": 0 },
+              { "title": "b", "val": 0 },
+              { "title": "l", "val": 0 },
+              { "title": "r", "val": 0 }
+            ],
+            "border": 0,
+            "borderColor": "#999999",
+            "bor_r_r": 0,
+            "borderRadius": [
+              { "title": "lt", "val": 0 },
+              { "title": "rt", "val": 0 },
+              { "title": "lb", "val": 0 },
+              { "title": "rb", "val": 0 }
+            ]
+          },
+          "coName": "WorkTabs",
+          "coType": "",
+          "coProps": {},
+          "pos": { "left": 0, "top": 0, "width": 1627, "height": 45 },
+          "isDerailed": false,
+          "wsca": 0.8362368626622333,
+          "lsca": 1627,
+          "moved": false
+        }
+      ]
+    },
+    {
+      "viewId": "view-6828-fc63",
+      "title": "其他",
+      "elements": [
+        {
+          "i": "ele-84c3-bfe3",
+          "x": 0,
+          "y": 0,
+          "w": 144,
+          "h": 45,
+          "static": false,
+          "isResizable": false,
+          "fixedHeight": false,
+          "elId": "ele-84c3-bfe3",
+          "elStyle": {
+            "bgColor": "#ffffff",
+            "bgSize": "contain",
+            "bgImg": "",
+            "mar_s": 0,
+            "margin": [
+              { "title": "t", "val": 0 },
+              { "title": "b", "val": 0 },
+              { "title": "l", "val": 0 },
+              { "title": "r", "val": 0 }
+            ],
+            "pad_s": 0,
+            "padding": [
+              { "title": "t", "val": 0 },
+              { "title": "b", "val": 0 },
+              { "title": "l", "val": 0 },
+              { "title": "r", "val": 0 }
+            ],
+            "border": 0,
+            "borderColor": "#999999",
+            "bor_r_r": 0,
+            "borderRadius": [
+              { "title": "lt", "val": 0 },
+              { "title": "rt", "val": 0 },
+              { "title": "lb", "val": 0 },
+              { "title": "rb", "val": 0 }
+            ]
+          },
+          "coName": "WorkTabs",
+          "coType": "",
+          "coProps": {},
+          "pos": { "left": 0, "top": 0, "width": 1627, "height": 45 },
+          "isDerailed": false,
+          "wsca": 0.9932844932844933,
+          "lsca": 0,
+          "moved": false
+        }
+      ]
+    }
+  ],
+  "style": {
+    "backgroundColor": "",
+    "userSelect": "none",
+    "paddingScale": 1,
+    "paddingTop": "0px",
+    "paddingBottom": "0px",
+    "paddingLeft": "0px",
+    "paddingRight": "0px"
+  }
+}

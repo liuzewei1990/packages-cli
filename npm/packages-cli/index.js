@@ -2,7 +2,8 @@
 const fs = require("fs");
 const path = require("path");
 const prettier = require("prettier");
-let prettierrc = path.join(process.cwd(),".prettierrc")
+// let prettierrc = path.join(process.cwd(),".prettierrc")
+let prettierrc = path.join(__dirname,".prettierrc")
 const prettierConfigPath = require.resolve(prettierrc);
 const chalk = require("chalk");
 

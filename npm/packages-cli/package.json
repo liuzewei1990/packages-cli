@@ -1,6 +1,6 @@
 {
   "name": "packages-cli",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A package that outputs 123456",
   "bin": {
     "packages-cli": "./index.js"
@@ -15,8 +15,9 @@
   ],
   "author": "Your Name",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "chalk": "^3.0.0",
     "prettier": "^2.4.1"
-  }
+  },
+  "devDependencies": {}
 }

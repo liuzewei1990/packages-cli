@@ -1,0 +1,22 @@
+{
+  "name": "package-cli",
+  "version": "1.0.0",
+  "main": "index.js",
+  "private": true,
+  "repository": "https://github.com/liuzewei1990/packages-cli.git",
+  "author": "liuzewei <54@qq.com>",
+  "license": "MIT",
+  "scripts": {
+    "dev": "lerna bootstrap && packages-cli && cd ./node_modules/packages-serve && yarn dev",
+    "packages-cli": "packages-cli"
+  },
+  "workspaces": [
+    "packages/*"
+  ],
+  "devDependencies": {},
+  "dependencies": {
+    "lerna": "^6.4.1",
+    "packages-cli": "file:npm/packages-cli",
+    "packages-serve": "file:npm/packages-serve"
+  }
+}
