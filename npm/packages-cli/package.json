@@ -1,6 +1,6 @@
 {
   "name": "packages-cli",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A package that outputs 123456",
   "bin": {
     "packages-cli": "./index.js"
